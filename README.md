@@ -53,24 +53,26 @@ Grâce à ma formation d'ingénieur et à mon apprentissage en autodidacte, je m
 
 ---
 
-### 🚀 Projets Phares
+### 🚀 Mes Projets
 
-#### 📱 [Finoria](https://github.com/godefroy-reynaud/Finoria-iOS) (Projet Personnel)
-**Application mobile de gestion de budget (iOS / Android)**
-* **Rôle :** Développeur unique.
-* **Le défi :** Apprentissage en autodidacte de Swift et Kotlin pour créer une application native fluide, avec un fort accent sur l'UI/UX pour rendre la gestion financière intuitive.
-* **Technos :** Swift, Kotlin, Git, Architecture Mobile.
+Voici une sélection de mes réalisations, mêlant projets personnels et académiques :
 
-#### ⚙️ [Simulateur de Pendule Double](https://github.com/godefroy-reynaud/NOM_DU_PROJET_PENDULE) (Projet Universitaire)
-**Modélisation et simulation physique complexe**
-* **Rôle :** Membre d'une équipe de 4 développeurs.
-* **Le défi :** Implémentation d'algorithmes mathématiques poussés, gestion de la physique, et coordination du code à plusieurs. Ce projet m'a beaucoup appris sur la communication et la gestion de version en équipe.
-* **Technos :** Mathématiques appliquées, Programmation Objet, Travail collaboratif.
+#### 📱 [Finoria (iOS)](https://github.com/godefroy-reynaud/Finoria-iOS)
+* **Application mobile de gestion de budget.**
+* Apprentissage en autodidacte de Swift pour créer une application native fluide. Fort accent sur l'UI/UX pour rendre la gestion financière intuitive et agréable.
 
----
+#### ⚙️ [Simulateur de Pendule Double](https://github.com/godefroy-reynaud/Pendule-double)
+* **Modélisation et simulation physique complexe (Équipe de 4).**
+* Implémentation d'algorithmes mathématiques poussés et gestion de la physique. Ce projet m'a beaucoup appris sur la coordination, le versioning (Git) et le travail collaboratif.
 
-### 📊 Mes Statistiques GitHub
+#### 🗺️ [Gestion de Trajets](https://github.com/godefroy-reynaud/Trajets)
+* **Algorithmique et structures de données.**
+* Conception d'un catalogue de gestion et de recherche de trajets. Focus sur l'optimisation de la mémoire, l'architecture du code et l'efficacité des algorithmes.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=godefroy-reynaud&show_icons=true&theme=radical&hide_border=true" alt="Statistiques de Godefroy" />
-</p>
+#### 📊 [ANALOG - Analyseur de Logs](https://github.com/godefroy-reynaud/ANALOG)
+* **Outil de parsing et d'analyse de données serveurs.**
+* Développement d'une application performante pour traiter, filtrer et extraire des statistiques utiles à partir de lourds fichiers de logs (type Apache).
+
+#### 🎮 [Jeu Pokémon](https://github.com/godefroy-reynaud/Jeu-Pokemon)
+* **Conception Orientée Objet (POO).**
+* Modélisation et développement des mécaniques de jeu (combats, statistiques). Excellente application pratique des concepts d'héritage, de polymorphisme et de design patterns.
